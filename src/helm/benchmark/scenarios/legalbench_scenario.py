@@ -17,7 +17,7 @@ from helm.benchmark.scenarios.scenario import (
     Output,
 )
 
-PROMPT_SETTINGS_URL = "https://github.com/StenRue/helmlegal/blob/main/mylegalbench.jsonl"
+PROMPT_SETTINGS_URL = "https://raw.githubusercontent.com/StenRue/helmlegal/main/mylegalbench.jsonl"
 
 SUBSETS = [
     "abercrombie",
